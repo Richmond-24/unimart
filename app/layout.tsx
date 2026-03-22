@@ -10,15 +10,15 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'UniMart - Your Campus Marketplace',
   description: 'Buy and sell with students on your campus. Textbooks, electronics, dorm essentials, and services. Trusted, safe, and completely free. Starting at UENR Ghana.',
-  generator: 'v0.app',
+  generator: 'Uni-Mart app',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/logo.png',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/logo.png',
         media: '(prefers-color-scheme: dark)',
       },
       {
