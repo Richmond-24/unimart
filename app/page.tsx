@@ -18,7 +18,7 @@ const WHATSAPP_URL  = "https://chat.whatsapp.com/K8uMXmGYJJGJvwP9QVEYn0"
 
 // ─── IMAGES ──────────────────────────────────────────────────────────────────
 const IMG = {
-  logo:          "/logo.png",
+  logo:          "/logo2.png",
   heroMain:      "/uni.webp",
   heroSecond:    "/image3.jpg",
   heroThird:     "/africa.webp",
